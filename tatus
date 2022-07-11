@@ -1,0 +1,105 @@
+[33mcommit 2abc36a4a66f2fd701bf36c9202598cc71ac965d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: david suarez <daviddobleese@hotmail.com>
+Date:   Sun Jul 10 22:56:54 2022 -0500
+
+    modifique la cabecera y e agregue texto al blog
+
+[33mcommit 5d842928ba511bfdb2ee3099defaa41820ce7346[m
+Author: david suarez <daviddobleese@hotmail.com>
+Date:   Wed Jul 6 00:02:13 2022 -0500
+
+    volvi a una tipografia menos controversial
+
+[33mcommit 5121669c0a14ddda5423cf87fa780d3700095d86[m
+Merge: 48a716c 045d850
+Author: david suarez <daviddobleese@hotmail.com>
+Date:   Tue Jul 5 23:52:04 2022 -0500
+
+    Merge branch 'cabecera'
+
+[33mcommit 48a716c4a88e211edbc006e9a93653360aea4022[m
+Author: david suarez <daviddobleese@hotmail.com>
+Date:   Tue Jul 5 23:45:37 2022 -0500
+
+    Agregado el contenido adicional del blog y una mejor tipografia
+
+[33mcommit 045d850e6889dad65007007c4a8d3714ecde7c35[m
+Author: david suarez <daviddobleese@hotmail.com>
+Date:   Tue Jul 5 23:39:41 2022 -0500
+
+    finalizada la cabecera con diseño azul
+
+[33mcommit bd3b9364ee25ea90b3705d601b03398d41eef050[m
+Author: david suarez <daviddobleese@hotmail.com>
+Date:   Tue Jul 5 23:07:42 2022 -0500
+
+    estructura inicial de la cebecera
+
+[33mcommit 38ba5b93cf158591fcd99d3a947bba4bcc527732[m
+Author: david suarez <daviddobleese@hotmail.com>
+Date:   Tue Jul 5 22:31:26 2022 -0500
+
+    commit al master del blogpost en su version mas reciente
+
+[33mcommit 4fcf1bf80fd4e8b2efce33ff20a37890f14418d7[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: david suarez <daviddobleese@hotmail.com>
+Date:   Wed Jun 29 14:05:05 2022 -0500
+
+     Una version de el Hyperblog
+
+[33mcommit 04b2485d60cb69a718c98a6347e46665c39b8473[m
+Author: David Andres Suarez <105502881+David-suarez-web@users.noreply.github.com>
+Date:   Wed Jun 29 09:39:00 2022 -0500
+
+    cambie el titulo del blogpost
+    
+    Porque puedo
+
+[33mcommit f38fe8b99b090f6418aa964c912ff38766cc86ec[m
+Merge: 83a9b4a 7b7eece
+Author: david suarez <daviddobleese@hotmail.com>
+Date:   Wed Jun 29 09:31:33 2022 -0500
+
+    Merge branch 'master' of https://github.com/David-suarez-web/hyperblog
+
+[33mcommit 7b7eece8d371c1b499f313d8d9e696b13156136b[m
+Author: David Andres Suarez <105502881+David-suarez-web@users.noreply.github.com>
+Date:   Wed Jun 29 09:20:42 2022 -0500
+
+    Initial commit
+
+[33mcommit 83a9b4ab970682910bfccae76d3908bb02bc917c[m[33m ([m[1;33mtag: v0.1[m[33m)[m
+Author: david suarez <daviddobleese@hotmail.com>
+Date:   Sun May 15 09:57:26 2022 -0500
+
+    remplazo por una version de la historia por otra
+
+[33mcommit a6f24731700ac59ba3a438d42ac3969f7b32aa45[m
+Author: david suarez <daviddobleese@hotmail.com>
+Date:   Sun May 15 09:50:07 2022 -0500
+
+    cambio de maestria
+
+[33mcommit 1a88d7407a52df8997c7dcad2e5b0a2a85530776[m
+Author: david suarez <daviddobleese@hotmail.com>
+Date:   Sun May 15 09:49:14 2022 -0500
+
+    cambio de vida
+
+[33mcommit 5c51febfc71b98b74d9288897d83447c59187bde[m
+Author: david suarez <daviddobleese@hotmail.com>
+Date:   Sun May 15 09:46:47 2022 -0500
+
+    arranco mi proyecro real con html y css
+
+[33mcommit 2c31d3a51fca2581c2f4b461a7d7ef013d562b3a[m
+Author: david suarez <daviddobleese@hotmail.com>
+Date:   Sat May 14 08:08:56 2022 -0500
+
+    cambios por 2 ves
+
+[33mcommit 73124e25eefa2eff4f6ab22decc1f3d555abd53f[m
+Author: david suarez <daviddobleese@hotmail.com>
+Date:   Sat May 14 08:03:43 2022 -0500
+
+    este es el primer commit del archivo
