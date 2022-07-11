@@ -40,14 +40,6 @@ body
 }
 #container h1
 {
-<<<<<<< HEAD
-    font-size: 20px;
-}
-#post
-{
-    background: white;
-    padding: 1em;
-=======
     font-size: 30px;
 }
 #footer
@@ -61,5 +53,4 @@ body
     width: 69%;
     margin:auto;
 
->>>>>>> footer
 }
