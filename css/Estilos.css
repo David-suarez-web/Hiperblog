@@ -10,7 +10,7 @@ body
     box-shadow: 0px 10px 50 px 0 px rgba(238, 238, 235, 0.137);
     color: rgb(235, 224, 224);
     font-weight: bold;
-    margin: 0;
+    margin: 0%;
     padding: 0.5em;
 }
 #cabecera #tagline
@@ -32,4 +32,16 @@ body
 #container h1
 {
     font-size: 30px;
+}
+#footer
+{
+    
+    border:1px solid rgba(12, 9, 206, 0.911);
+    color:rgb(228, 30, 30);
+    background: #77ff57;
+    padding: 0.5em;
+    font-weight: bold;
+    width: 69%;
+    margin:auto;
+
 }
